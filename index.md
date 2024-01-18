@@ -1,3 +1,1 @@
-こんばんは！
-
-このホームページのソースコードは[こちら](https://github.com/NEEC-Y-Okada/HomePages/)
+こんにちは！
